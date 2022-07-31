@@ -62,4 +62,11 @@ hr{
   width:50%;
   margin: 100px auto 100px auto;
   text-align:left;
+  line-height:2;
+}
+.caddm{
+  width:25%;
+}
+.dance{
+  width:25%
 }
