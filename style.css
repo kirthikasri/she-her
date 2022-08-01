@@ -54,6 +54,7 @@ hr{
     border-color: grey;
     border-width: 5px;
     width: 20px;
+    margin:100px auto;
 }
 .bottom-container{
   background-color: powderblue;
@@ -68,7 +69,10 @@ hr{
   width:50%;
   margin: 100px auto 100px auto;
   text-align:left;
-  line-height:2;
+ 
+}
+p{
+   line-height:2;
 }
 
 .caddm{
